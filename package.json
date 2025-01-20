@@ -1,0 +1,24 @@
+{
+  "name": "python-p4-web-servers-and-wsgi",
+  "version": "1.0.0",
+  "description": "## Learning Goals",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vantiger69/python-p4-web-servers-and-wsgi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vantiger69/python-p4-web-servers-and-wsgi/issues"
+  },
+  "homepage": "https://github.com/vantiger69/python-p4-web-servers-and-wsgi#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "package.json": "^2.0.1"
+  }
+}
